@@ -37,15 +37,15 @@ for full information.
 
 * 64-bit system
  * Otherwise some coins will display wrong network hashrates
-* Apache2
- * libapache2-mod-php5
-* PHP 5.4+
- * php5-json
- * php5-mysqlnd
- * php5-memcached
- * php5-curl
+* apache2
+ * libapache2-mod-php
+* php
+ * php-json
+ * php-mysqln
+ * php-memcached
+ * php-curl
 * MySQL Server
- * mysql-server
+ * mysql-server(deprecated debian) used mariadb-server
 * memcached
 * stratum-mining
 * litecoind
